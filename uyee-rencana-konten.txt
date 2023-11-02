@@ -2,6 +2,7 @@ Rencana Konten Uyee
 -ABC
   +12345
 -ini data baru
--DEF
-  +67890
+  +ini yang ngedit si coba fitur 2
 -GHI
+  +0000
+  +00000
